@@ -279,6 +279,7 @@ lottie-player #lottie-play-button {
   left: 25%;
 }
 .main__container {
+  max-width: 87.5rem;
   box-shadow: inset 0px 0px 40px #000000;
   border: 8px solid #00f1f8;
   border-radius: 51px;
