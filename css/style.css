@@ -142,19 +142,8 @@ h6 {
   border-radius: 28px;
 }
 
-.toolbar {
-  display: none !important;
-}
-
-lottie-player {
-  --lottie-player-seeker-display: none;
-}
-lottie-player #lottie-play-button {
-  display: none;
-}
-
 .header {
-  padding: 39px 0px;
+  padding: 39px 0px 33px 0px;
   position: absolute;
   top: 0;
   left: 0;
